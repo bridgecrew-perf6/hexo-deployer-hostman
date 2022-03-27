@@ -1,0 +1,30 @@
+{
+  "name": "hexo-deployer-hostman",
+  "version": "0.0.1",
+  "description": "A plugin to invoke Hostman's Deploy Hook.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pai233/hexo-deployer-hostman.git"
+  },
+  "keywords": [
+    "hexo",
+    "deployer"
+  ],
+  "author": "pai233",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pai233/hexo-deployer-hostman/issues"
+  },
+  "homepage": "https://github.com/pai233/hexo-deployer-hostman#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^4.1.2",
+    "hexo-fs": "^3.1.0",
+    "hexo-util": "^2.5.0",
+    "path": "^0.12.7"
+  }
+}
