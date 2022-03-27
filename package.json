@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-hostman",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "A plugin to invoke Hostman's Deploy Hook.",
   "main": "index.js",
   "scripts": {
